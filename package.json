@@ -1,0 +1,11 @@
+{
+    "name"        : "snake",
+    "version"     : "0.1.0",
+    "description" : "Yet Another Snake Game",
+    "author"      : "Saikat Basak <saikatbasak.in>",
+    "main"        : "index.js",
+    "repository"  : {
+        "type" : "git",
+        "url"  : ""
+    }
+}
